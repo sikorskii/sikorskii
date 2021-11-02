@@ -7,8 +7,6 @@
 
  
  
-## MAI, Faculty 8, Department 806, Applied mathematics and computer science
- 
 - 🕸 Now I am at 2nd course of Moscow Aviation Institite
 - 📚 I am taking part with team in opencups
 - ⚙ Familiar with hardware
