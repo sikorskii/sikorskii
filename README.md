@@ -12,9 +12,7 @@
 - 🕸 Now I am at 2nd course of Moscow Aviation Institite
 - 📚 I am taking part with team in opencups
 - ⚙ Familiar with hardware
-- 🙇‍♂️ Now I am learning OOP, Operation Systems, Spring and it's really intresting
 - 👀 Want to know SQL
-- 🤔 Contact with me in my social networks
  
  
 ### Languages and Tools
